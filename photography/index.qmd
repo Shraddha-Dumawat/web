@@ -1,0 +1,18 @@
+---
+title: "Interests"
+---
+
+I love swimming, theater and poetry. I also like learning new languages and watching movies from demographics. Here are few pictures of my mime and other performances back in undergrad.
+
+::: {layout-ncol=2}
+
+![](poetry.jpg)
+Poetry, BITS-Pilani 2019
+![](mime.jpg)
+Mime, BITS-Pilani 2020
+
+
+
+
+:::
+

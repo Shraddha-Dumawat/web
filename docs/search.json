@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "Education/index.html",
+    "href": "Education/index.html",
+    "title": "Education",
+    "section": "",
+    "text": "I did my Undergrad in Bachelor of Pharmacy from Birla-Institute of Technology and Science, Pilani - Hyderabad Campus and currently pursuing my PhD in Biomedical Informatics at Case Western Reserve University, Cleveland.\n\n\n\n\n\n\n Rainbow over my Uni, BITS-Pilani\n\n\n Convocation, Undergrad.\n\n\n\n\n First day as a PhD Student at Case"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "At GSK, I had the opportunity to work on something incredibly meaningful—developing digital biomarkers for Parkinson’s disease. My role was to create algorithms that could analyze data from patients, including passive signals like sleep patterns and active ones like hand movement and voice modulation. Using digital signal processing, I extracted key features that allowed us to track the progression of the disease over time. I also deployed machine learning models, like Self-Organized Maps and Auto-encoders, to improve the accuracy of these biomarkers. It was rewarding to see that our model not only boosted feature importance by 60% but also reduced processing time by 1800 times, bringing us closer to real-time monitoring. This project taught me a lot about the impact of predictive diagnostics on patient lives and gave me a chance to present our findings across internal workshops, which was both nerve-wracking and incredibly fulfilling."
+  },
+  {
+    "objectID": "projects/index.html#digital-biomarkers-for-parkinsons-disease",
+    "href": "projects/index.html#digital-biomarkers-for-parkinsons-disease",
+    "title": "Projects",
+    "section": "",
+    "text": "At GSK, I had the opportunity to work on something incredibly meaningful—developing digital biomarkers for Parkinson’s disease. My role was to create algorithms that could analyze data from patients, including passive signals like sleep patterns and active ones like hand movement and voice modulation. Using digital signal processing, I extracted key features that allowed us to track the progression of the disease over time. I also deployed machine learning models, like Self-Organized Maps and Auto-encoders, to improve the accuracy of these biomarkers. It was rewarding to see that our model not only boosted feature importance by 60% but also reduced processing time by 1800 times, bringing us closer to real-time monitoring. This project taught me a lot about the impact of predictive diagnostics on patient lives and gave me a chance to present our findings across internal workshops, which was both nerve-wracking and incredibly fulfilling."
+  },
+  {
+    "objectID": "projects/index.html#fragment-based-structural-analysis-of-hdac3-inhibitors",
+    "href": "projects/index.html#fragment-based-structural-analysis-of-hdac3-inhibitors",
+    "title": "Projects",
+    "section": "Fragment-Based Structural Analysis of HDAC3 Inhibitors",
+    "text": "Fragment-Based Structural Analysis of HDAC3 Inhibitors\nDuring my academic journey, I dove into a research project that focused on HDAC3 inhibitors, a promising target for cancer therapy. I applied a fragment-based, non-linear machine learning approach to explore which structural features of HDAC3 inhibitors were most effective in blocking the enzyme’s activity. This involved a lot of deep dives into chemical space exploration and binding mode analysis, which we then used to refine the models further. Seeing this project culminate in a publication was an amazing milestone—it felt like a small but significant step towards better-targeted cancer treatments. This research taught me patience, attention to detail, and the power of a well-placed fragment in the fight against cancer."
+  },
+  {
+    "objectID": "projects/index.html#predictive-modeling-for-lung-cancer-stages-using-rna-sequencing-data",
+    "href": "projects/index.html#predictive-modeling-for-lung-cancer-stages-using-rna-sequencing-data",
+    "title": "Projects",
+    "section": "Predictive Modeling for Lung Cancer Stages Using RNA-Sequencing Data",
+    "text": "Predictive Modeling for Lung Cancer Stages Using RNA-Sequencing Data\nAt Elucidata, I worked on a project that combined two of my interests: machine learning and healthcare. I developed a model to predict lung cancer stages using RNA-sequencing data, and we experimented with Auto-ML techniques to improve data quality and preprocessing. The result? A model with a 93% AUC in predicting lung cancer stages—a result that made all the late nights worth it. Working on this project reinforced for me how machine learning can be a game-changer in early diagnosis and personalized treatment. Knowing that our work might one day help patients and doctors better understand and tackle lung cancer was incredibly motivating and made me feel like I was truly on the right path in my career."
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Interests",
+    "section": "",
+    "text": "I love swimming, theater and poetry. I also like learning new languages and watching movies from demographics. Here are few pictures of my mime and other performances back in undergrad.\n\n\n\n\n\n\n Poetry, BITS-Pilani 2019  Mime, BITS-Pilani 2020"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my World!",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my World!\nI am Shraddha Dumawat, an aspiring biomedical-informatics scientist—though right now, I’m just a (slightly confused) first-year PhD student. This website is a window into my many interests and a few of my humble strides toward goals in personalized medicine and diagnostics.\nMy hands each carry stories written in lines that have led me to this very moment. My rough, right hand belongs to the side that spends hours before a laptop, immersed in coding and scientific research, each keystroke driven by the ambition to build something of my own. This is the hand of the scientist, the engineer, the problem-solver—grounded and precise, pursuing a dream with a single-minded focus.\nIn contrast, my left hand tells of a softer, more varied journey. It’s the hand that dreamed freely, reaching for the stars and gripping the lines of endless possibilities. This hand remembers the dreams of becoming a writer, the graceful glide of a swimmer, the expression of a theater actor, the thrill of a surfer, the boundless curiosity of an aspiring astronaut, and the innocent ambitions of a little girl who saw the world as an endless expanse of wonder.\nMy research spans from tackling cancer to understanding neurodegenerative diseases, where I aim to integrate ethical machine learning algorithms to empower patients and physicians with precise, tailored treatments. It’s a journey that marries my scientific rigor with a deep empathy for those we strive to help, bringing the hopes written in my hands to life. Please feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "BlogPosts/Posts/statssig.html",
+    "href": "BlogPosts/Posts/statssig.html",
+    "title": "Moving to a World Beyond ’p<0.05",
+    "section": "",
+    "text": "The concept of statistical significance has become a misused cornerstone in scientific inference. Although originally introduced by Edgeworth and popularized by Fisher as a heuristic for deciding whether a result warranted further scrutiny, it has since evolved into a rigid and misunderstood threshold. The term itself conflates statistical and everyday language, with “significance” in common usage implying importance or truth, whereas in statistics it merely denotes the improbability of observing data under a null hypothesis. This confusion has persisted for over a century, despite early warnings—such as Boring in 1919—that statistical significance does not equate to scientific relevance.\nToday, a p-value below 0.05 is routinely treated as evidence of a real effect, while one above this threshold is often viewed as a failure to detect anything of interest. This dichotomization is not only misleading but also distorts the scientific process. The problem lies not just in language, but in the widespread belief that bright-line rules—thresholds like p &lt; 0.05—can reliably separate true effects from noise. In practice, this belief collapses under the weight of empirical complexity and disciplinary nuance.\nIn biomedical research, for instance, many studies are underpowered due to small sample sizes or large biological variability. In such settings, a p-value just under 0.05 is often more reflective of random fluctuation than of a robust underlying effect. A clinical trial reporting p = 0.048 may receive attention and funding, while an almost identical study with p = 0.052 is dismissed, even though both results are statistically indistinguishable in any practical sense. This mechanical reliance on thresholds contributes to publication bias and inflates the perceived strength of findings, fueling the replication crisis that has deeply affected medical and psychological sciences alike.\nIn chemistry, the challenges are different but equally illustrative. Modern analytical techniques allow researchers to detect extraordinarily small differences in signal. In such environments, statistical significance often arises from the sensitivity of the instrument rather than from meaningful chemical phenomena. For example, a spectroscopic comparison of two nearly identical compounds might yield a statistically significant difference due to minimal noise variation, despite no functional or mechanistic difference between them. The bright line, in this case, becomes detached from scientific relevance, highlighting that statistical thresholds cannot be universally applied without regard to context.\nEven in physics—arguably the most quantitatively rigorous of the sciences—bright-line thinking has its limitations. Particle physics, for example, employs far more stringent significance criteria than other fields, with the threshold for discovery typically set at five standard deviations from the null, equivalent to a p-value of approximately 3 × 10⁻⁷. Yet despite these formal thresholds, claims are not accepted based solely on statistical significance. Confirmation through independent replication, model consistency, and an understanding of systematic uncertainties remain essential. This demonstrates a key point: even when the data volume and signal precision are extraordinarily high, statistical significance is still viewed as one component in a broader inferential framework.\nPsychology, on the other hand, has suffered acutely from the institutionalization of p &lt; 0.05 as a marker of scientific validity. Researchers often operate under publication pressures that incentivize positive findings. Practices such as optional stopping, flexible hypotheses, and selective reporting—collectively known as “researcher degrees of freedom”—make it possible to reach statistical significance without genuine effects. The result is a literature that is heavily biased toward publishable, rather than reproducible, results. This is not necessarily a failure of individual researchers, but rather a systemic issue tied to the use of significance as a binary decision rule.\nThe American Statistical Association’s statement on p-values and the work of scholars like Gelman and Stern have underscored the fundamental issue: the difference between “significant” and “not significant” is itself often not statistically meaningful. Treating the 0.05 threshold as a scientific boundary creates artificial discontinuities in interpretation. A p-value of 0.049 is functionally no different from 0.051, yet one is celebrated and the other ignored. In fields with high uncertainty or small effect sizes, this binary framing can be particularly misleading.\nTo move forward, science must abandon the reliance on bright-line thresholds and embrace more nuanced forms of inference. This does not mean relaxing rigor; rather, it demands a more context-aware approach. Effect sizes, confidence intervals, prior plausibility, replication, and model-based reasoning must take precedence over arbitrary significance labels. In some contexts, Bayesian inference or likelihood ratios may provide more coherent alternatives to traditional null hypothesis testing, offering a fuller picture of the evidence at hand.\nThe continued dominance of statistical significance as a gatekeeper of scientific credibility is no longer justifiable. Its interpretive ambiguity, disciplinary inconsistency, and susceptibility to misuse have rendered it an unreliable tool for evaluating evidence. Science is not served by binary thresholds that flatten complex data into simplistic decisions. Whether in biology, chemistry, physics, or psychology, the limitations of bright-line thinking are now too evident to ignore. A scientific culture that prioritizes transparency, uncertainty quantification, and methodological robustness will be better equipped to produce knowledge that is both credible and durable."
+  },
+  {
+    "objectID": "BlogPosts/index.html",
+    "href": "BlogPosts/index.html",
+    "title": "From my humble desk",
+    "section": "",
+    "text": "Moving to a World Beyond ’p&lt;0.05\n\n\nThe Fallacy of Bright Lines: Statistical Significance and Scientific Misjudgment\n\n\n\nStatistics\n\n\nResearch\n\n\n\n\n\n\n\n\n\nMar 23, 2025\n\n\nShraddha Dumawat\n\n\n\n\n\n\nNo matching items"
+  }
+]

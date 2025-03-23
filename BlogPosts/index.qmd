@@ -1,0 +1,10 @@
+---
+title: "From my humble desk"
+listing:
+  contents: Posts
+  sort: "date desc"
+  type: "default"   # or try "grid" or "table"
+  categories: true
+  filter-ui: true
+---
+

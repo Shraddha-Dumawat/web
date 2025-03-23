@@ -1,0 +1,31 @@
+---
+title: "Moving to a World Beyond 'p<0.05"
+subtitle: "The Fallacy of Bright Lines: Statistical Significance and Scientific Misjudgment"
+author: "Shraddha Dumawat"
+date: 2025-03-23
+categories: [Statistics, Research]
+image: pvaluecom.png
+---
+
+::: {layout-ncol=2 layout-fill=[1,2]}
+
+![](pvaluecom.png)
+:::
+
+The concept of statistical significance has become a misused cornerstone in scientific inference. Although originally introduced by Edgeworth and popularized by Fisher as a heuristic for deciding whether a result warranted further scrutiny, it has since evolved into a rigid and misunderstood threshold. The term itself conflates statistical and everyday language, with "significance" in common usage implying importance or truth, whereas in statistics it merely denotes the improbability of observing data under a null hypothesis. This confusion has persisted for over a century, despite early warnings—such as Boring in 1919—that statistical significance does not equate to scientific relevance.
+
+Today, a p-value below 0.05 is routinely treated as evidence of a real effect, while one above this threshold is often viewed as a failure to detect anything of interest. This dichotomization is not only misleading but also distorts the scientific process. The problem lies not just in language, but in the widespread belief that bright-line rules—thresholds like p < 0.05—can reliably separate true effects from noise. In practice, this belief collapses under the weight of empirical complexity and disciplinary nuance.
+
+In biomedical research, for instance, many studies are underpowered due to small sample sizes or large biological variability. In such settings, a p-value just under 0.05 is often more reflective of random fluctuation than of a robust underlying effect. A clinical trial reporting p = 0.048 may receive attention and funding, while an almost identical study with p = 0.052 is dismissed, even though both results are statistically indistinguishable in any practical sense. This mechanical reliance on thresholds contributes to publication bias and inflates the perceived strength of findings, fueling the replication crisis that has deeply affected medical and psychological sciences alike.
+
+In chemistry, the challenges are different but equally illustrative. Modern analytical techniques allow researchers to detect extraordinarily small differences in signal. In such environments, statistical significance often arises from the sensitivity of the instrument rather than from meaningful chemical phenomena. For example, a spectroscopic comparison of two nearly identical compounds might yield a statistically significant difference due to minimal noise variation, despite no functional or mechanistic difference between them. The bright line, in this case, becomes detached from scientific relevance, highlighting that statistical thresholds cannot be universally applied without regard to context.
+
+Even in physics—arguably the most quantitatively rigorous of the sciences—bright-line thinking has its limitations. Particle physics, for example, employs far more stringent significance criteria than other fields, with the threshold for discovery typically set at five standard deviations from the null, equivalent to a p-value of approximately 3 × 10⁻⁷. Yet despite these formal thresholds, claims are not accepted based solely on statistical significance. Confirmation through independent replication, model consistency, and an understanding of systematic uncertainties remain essential. This demonstrates a key point: even when the data volume and signal precision are extraordinarily high, statistical significance is still viewed as one component in a broader inferential framework.
+
+Psychology, on the other hand, has suffered acutely from the institutionalization of p < 0.05 as a marker of scientific validity. Researchers often operate under publication pressures that incentivize positive findings. Practices such as optional stopping, flexible hypotheses, and selective reporting—collectively known as “researcher degrees of freedom”—make it possible to reach statistical significance without genuine effects. The result is a literature that is heavily biased toward publishable, rather than reproducible, results. This is not necessarily a failure of individual researchers, but rather a systemic issue tied to the use of significance as a binary decision rule.
+
+The American Statistical Association’s statement on p-values and the work of scholars like Gelman and Stern have underscored the fundamental issue: the difference between “significant” and “not significant” is itself often not statistically meaningful. Treating the 0.05 threshold as a scientific boundary creates artificial discontinuities in interpretation. A p-value of 0.049 is functionally no different from 0.051, yet one is celebrated and the other ignored. In fields with high uncertainty or small effect sizes, this binary framing can be particularly misleading.
+
+To move forward, science must abandon the reliance on bright-line thresholds and embrace more nuanced forms of inference. This does not mean relaxing rigor; rather, it demands a more context-aware approach. Effect sizes, confidence intervals, prior plausibility, replication, and model-based reasoning must take precedence over arbitrary significance labels. In some contexts, Bayesian inference or likelihood ratios may provide more coherent alternatives to traditional null hypothesis testing, offering a fuller picture of the evidence at hand.
+
+The continued dominance of statistical significance as a gatekeeper of scientific credibility is no longer justifiable. Its interpretive ambiguity, disciplinary inconsistency, and susceptibility to misuse have rendered it an unreliable tool for evaluating evidence. Science is not served by binary thresholds that flatten complex data into simplistic decisions. Whether in biology, chemistry, physics, or psychology, the limitations of bright-line thinking are now too evident to ignore. A scientific culture that prioritizes transparency, uncertainty quantification, and methodological robustness will be better equipped to produce knowledge that is both credible and durable.

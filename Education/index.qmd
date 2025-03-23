@@ -1,0 +1,19 @@
+---
+title: "Education"
+---
+
+I did my Undergrad in Bachelor of Pharmacy from Birla-Institute of Technology and Science, Pilani - Hyderabad Campus and currently pursuing my PhD in Biomedical Informatics at Case Western Reserve University, Cleveland. 
+
+::: {layout-ncol=2 layout-fill=[1,2]}
+
+![](Bits-rainbow.jpg)
+Rainbow over my Uni, BITS-Pilani
+
+![](Bits-grad.jpg)
+Convocation, Undergrad. 
+
+![](Case-1.jpg)
+First day as a PhD Student at Case 
+
+:::
+

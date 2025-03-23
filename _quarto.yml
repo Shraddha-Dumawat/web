@@ -1,0 +1,64 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Shraddha Dumawat"                                # Your name
+  description: "A PhD student navigating between medical and information sciences"   # A brief slogan (optional)
+  image: img/Image.jpeg
+  
+  favicon: img/favicon.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/logo.png
+    
+    # your sub-pages
+    left:
+      - text: "Education"
+        href: Education/index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Interests"
+        href: photography/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+      - text: "Blogs"
+        href: BlogPosts/index.qmd
+
+    
+    # your social media handles
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shraddha-dumawat/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:sxd1055@case.edu"  
+  
+  
+
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - html/lux.min
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

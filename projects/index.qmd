@@ -1,0 +1,21 @@
+---
+title: Projects
+---
+
+## Digital Biomarkers for Parkinson's Disease
+
+At GSK, I had the opportunity to work on something incredibly meaningful—developing digital biomarkers for Parkinson’s disease. My role was to create algorithms that could analyze data from patients, including passive signals like sleep patterns and active ones like hand movement and voice modulation. Using digital signal processing, I extracted key features that allowed us to track the progression of the disease over time. I also deployed machine learning models, like Self-Organized Maps and Auto-encoders, to improve the accuracy of these biomarkers. It was rewarding to see that our model not only boosted feature importance by 60% but also reduced processing time by 1800 times, bringing us closer to real-time monitoring. This project taught me a lot about the impact of predictive diagnostics on patient lives and gave me a chance to present our findings across internal workshops, which was both nerve-wracking and incredibly fulfilling.
+
+----
+
+## Fragment-Based Structural Analysis of HDAC3 Inhibitors
+
+During my academic journey, I dove into a research project that focused on HDAC3 inhibitors, a promising target for cancer therapy. I applied a fragment-based, non-linear machine learning approach to explore which structural features of HDAC3 inhibitors were most effective in blocking the enzyme's activity. This involved a lot of deep dives into chemical space exploration and binding mode analysis, which we then used to refine the models further. Seeing this project culminate in a publication was an amazing milestone—it felt like a small but significant step towards better-targeted cancer treatments. This research taught me patience, attention to detail, and the power of a well-placed fragment in the fight against cancer.
+
+---
+
+## Predictive Modeling for Lung Cancer Stages Using RNA-Sequencing Data
+
+At Elucidata, I worked on a project that combined two of my interests: machine learning and healthcare. I developed a model to predict lung cancer stages using RNA-sequencing data, and we experimented with Auto-ML techniques to improve data quality and preprocessing. The result? A model with a 93% AUC in predicting lung cancer stages—a result that made all the late nights worth it. Working on this project reinforced for me how machine learning can be a game-changer in early diagnosis and personalized treatment. Knowing that our work might one day help patients and doctors better understand and tackle lung cancer was incredibly motivating and made me feel like I was truly on the right path in my career.
+
+

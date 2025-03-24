@@ -3,6 +3,10 @@ title: Projects
 execute:
   freeze: false 
 ---
+## AI-Driven Prediction of Cognitive Decline in Parkinson’s Disease Using PPMI Data
+
+I'm currently working on a research project using the Parkinson’s Progression Markers Initiative (PPMI) dataset to predict cognitive decline in Parkinson’s Disease patients. By analyzing trends in MoCA (Montreal Cognitive Assessment) sub-scores across patient visits, I’m applying a combination of Hidden Markov Models and Long Short-Term Memory (LSTM) networks to capture progression patterns and forecast future cognitive performance. The aim is to develop a personalized and interpretable model that supports early clinical intervention and advances the role of AI in patient-centered care.
+----
 
 ## Digital Biomarkers for Parkinson's Disease
 

@@ -1,5 +1,7 @@
 ---
 title: "Education"
+execute:
+  freeze: false 
 ---
 
 I did my Undergrad in Bachelor of Pharmacy from Birla-Institute of Technology and Science, Pilani - Hyderabad Campus and currently pursuing my PhD in Biomedical Informatics at Case Western Reserve University, Cleveland. 

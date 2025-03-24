@@ -1,5 +1,7 @@
 ---
 title: "Interests"
+execute:
+  freeze: false 
 ---
 
 I love swimming, theater and poetry. I also like learning new languages and watching movies from demographics. Here are few pictures of my mime and other performances back in undergrad.

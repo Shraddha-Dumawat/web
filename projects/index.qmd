@@ -1,5 +1,7 @@
 ---
 title: Projects
+execute:
+  freeze: false 
 ---
 
 ## Digital Biomarkers for Parkinson's Disease

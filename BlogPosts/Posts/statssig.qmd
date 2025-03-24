@@ -1,5 +1,5 @@
 ---
-title: "Moving to a World Beyond 'p<0.05"
+title: "Moving to a World Beyond 'p<0.05'"
 subtitle: "The Fallacy of Bright Lines: Statistical Significance and Scientific Misjudgment"
 author: "Shraddha Dumawat"
 date: 2025-03-23
